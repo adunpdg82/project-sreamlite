@@ -29,7 +29,7 @@ your url is: https://spotty-streets-study.loca.lt
 
 
 untuk melihat tampilan pada web kita dapat mengunjungi 
-(https://cyan-shirts-give.loca.lt)
+(https://spotty-streets-study.loca.lt)
 dan pada Endpoint IP: d
 silahkan disikan alamat IP :34.86.135.19
 kemudian silahkan tekan  tombol "Click to Submit"
