@@ -2,12 +2,13 @@
 Proyek ini adalah sebuah demo aplikasi web yang dibuat dengan streamlite. Aplikasi ini menampilkan data udara di kota Ghuceng dari tahun 2013 sampai tahun 2017.
 
 ## Instalasi dan Menjalankan Streamlite Pada Local Host
-Untuk menjalankan aplikasi ini, Anda perlu menginstal streamlite dengan menggunakan pip
+Untuk menjalankan aplikasi ini, Anda perlu menginstal streamlite dengan menggunakan pip :
 
 pip install -q streamlit
 
-kemudian siapkan file yang akan menjalankan perintah untuk membaca data dan juga menampilakn tabel serta grafi 
+kemudian siapkan file yang akan menjalankan perintah untuk membaca data dan juga menampilkan tabel serta grafik 
 dalam hal ini saya membuat file bernama air.py yang berisi kode aplikasi berbasis python
+
 kemudian jalankan perintah:
 
 !wget -q -O - ipv4.icanhazip.com
@@ -17,7 +18,7 @@ ini akan menghasilkan alamat IP secara acak, sebagai contoh ketika saya menjalan
 untuk melihat tampilan pada server tersebut diperlukan perintah :
 ! streamlit run air.py & npx localtunnel --port 8501
 
-yang menghasilkan
+yang menghasilkan :
 
 You can now view your Streamlit app in your browser.
 
