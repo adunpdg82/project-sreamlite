@@ -12,26 +12,25 @@ kemudian jalankan perintah:
 
 !wget -q -O - ipv4.icanhazip.com
 
-ini akan menghasilkan alamat IP secara acak, sebagai contoh ketika saya menjalannya file ini menghasilkan alamat ip server:
-35.237.254.246 (alamat ini akan berubah setiap kali dijalankan)
-
+ini akan menghasilkan alamat IP secara acak, sebagai contoh ketika saya menjalannya file ini menghasilkan alamat ip server
+34.86.135.19 
 untuk melihat tampilan pada server tersebut diperlukan perintah :
 ! streamlit run air.py & npx localtunnel --port 8501
 
-yang menghasilkan:
+yang menghasilkan
 
-                  You can now view your Streamlit app in your browser.
-                  
-                    Network URL: http://172.28.0.12:8501
-                    External URL: http://35.237.254.246:8501
-                  
-                  npx: installed 22 in 2.53s
-                  your url is: https://cyan-shirts-give.loca.lt (alamat ini akan berubah setiap dijalankan)
+You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.12:8501
+  External URL: http://34.86.135.19:8501
+
+npx: installed 22 in 4.047s
+your url is: https://spotty-streets-study.loca.lt
 
 
 untuk melihat tampilan pada web kita dapat mengunjungi 
 (https://cyan-shirts-give.loca.lt)
 dan pada Endpoint IP: d
-silahkan disikan alamat IP :35.237.254.246
+silahkan disikan alamat IP :34.86.135.19
 kemudian silahkan tekan  tombol "Click to Submit"
 maka tampilan pada web akan muncul
