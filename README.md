@@ -1,7 +1,7 @@
 # project-sreamlite
 Proyek ini adalah sebuah demo aplikasi web yang dibuat dengan streamlite. Aplikasi ini menampilkan data udara di kota Ghuceng dari tahun 2013 sampai tahun 2017.
 
-##Instalasi dan Menjalankan Streamlite Pada Local Host
+## Instalasi dan Menjalankan Streamlite Pada Local Host
 Untuk menjalankan aplikasi ini, Anda perlu menginstal streamlite dengan menggunakan pip
 
 pip install -q streamlit
